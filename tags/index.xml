@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SpashtNews</title>
-    <link>http://example.org/tags/</link>
+    <link>https://architsmat38.github.io/spashtnews/tags/</link>
     <description>Recent content in Tags on SpashtNews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
     <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://architsmat38.github.io/spashtnews/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cbi</title>
-      <link>http://example.org/tags/cbi/</link>
+      <link>https://architsmat38.github.io/spashtnews/tags/cbi/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0530</pubDate>
       
-      <guid>http://example.org/tags/cbi/</guid>
+      <guid>https://architsmat38.github.io/spashtnews/tags/cbi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chidambaram</title>
-      <link>http://example.org/tags/chidambaram/</link>
+      <link>https://architsmat38.github.io/spashtnews/tags/chidambaram/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0530</pubDate>
       
-      <guid>http://example.org/tags/chidambaram/</guid>
+      <guid>https://architsmat38.github.io/spashtnews/tags/chidambaram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inx media</title>
-      <link>http://example.org/tags/inx-media/</link>
+      <link>https://architsmat38.github.io/spashtnews/tags/inx-media/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0530</pubDate>
       
-      <guid>http://example.org/tags/inx-media/</guid>
+      <guid>https://architsmat38.github.io/spashtnews/tags/inx-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>politics</title>
-      <link>http://example.org/tags/politics/</link>
+      <link>https://architsmat38.github.io/spashtnews/tags/politics/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0530</pubDate>
       
-      <guid>http://example.org/tags/politics/</guid>
+      <guid>https://architsmat38.github.io/spashtnews/tags/politics/</guid>
       <description></description>
     </item>
     
