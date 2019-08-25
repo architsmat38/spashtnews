@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cbi on SpashtNews</title>
+    <link>http://example.org/tags/cbi/</link>
+    <description>Recent content in cbi on SpashtNews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019. SpashtNews - All rights reserved</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/cbi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chidambaram&#39;s Tryst With Destiny</title>
+      <link>http://example.org/posts/chidambaram-tryst-with-destiny/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0530</pubDate>
+      
+      <guid>http://example.org/posts/chidambaram-tryst-with-destiny/</guid>
+      <description>What a drama has been created by the top echelons of our society and by that I mean CBI - the most trusted investigating agency of a democratic India.</description>
+    </item>
+    
+  </channel>
+</rss>
