@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 22:15:44 +0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 21:28:25 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>economy</title>
+      <link>https://spashtnews.com/tags/economy/</link>
+      <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gdp</title>
+      <link>https://spashtnews.com/tags/gdp/</link>
+      <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>india</title>
+      <link>https://spashtnews.com/tags/india/</link>
+      <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbi</title>
+      <link>https://spashtnews.com/tags/rbi/</link>
+      <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/rbi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>article 370</title>
@@ -27,15 +63,6 @@
       <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/imran-khan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>india</title>
-      <link>https://spashtnews.com/tags/india/</link>
-      <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/india/</guid>
       <description></description>
     </item>
     
@@ -90,24 +117,6 @@
       <pubDate>Mon, 26 Aug 2019 22:34:59 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economy</title>
-      <link>https://spashtnews.com/tags/economy/</link>
-      <pubDate>Mon, 26 Aug 2019 22:34:59 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/economy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gdp</title>
-      <link>https://spashtnews.com/tags/gdp/</link>
-      <pubDate>Mon, 26 Aug 2019 22:34:59 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/gdp/</guid>
       <description></description>
     </item>
     

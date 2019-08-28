@@ -37,3 +37,15 @@
 .text-justify {
     text-align: justify !important;
 }
+.font-bold {
+    font-weight: bold !important;
+}
+.card-shadow {
+    box-shadow: 1px 1px 10px #D3D3D3;
+}
+.facebook-color {
+    color: #3b5998 !important;
+}
+.twitter-color {
+    color: #00acee !important;
+}
