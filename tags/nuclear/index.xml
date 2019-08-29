@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pakistan on SpashtNews</title>
-    <link>https://spashtnews.com/tags/pakistan/</link>
-    <description>Recent content in pakistan on SpashtNews</description>
+    <title>nuclear on SpashtNews</title>
+    <link>https://spashtnews.com/tags/nuclear/</link>
+    <description>Recent content in nuclear on SpashtNews</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
     <lastBuildDate>Thu, 29 Aug 2019 22:01:47 +0400</lastBuildDate>
     
-	<atom:link href="https://spashtnews.com/tags/pakistan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spashtnews.com/tags/nuclear/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://spashtnews.com/pakistan-nuclear-threat/</guid>
       <description>After it became clear to Pakistan’s Prime Minister Imran Khan that the USA was not going to intervene in Kashmir, he has become a restless person.</description>
-    </item>
-    
-    <item>
-      <title>The Silent Valley</title>
-      <link>https://spashtnews.com/the-silent-valley/</link>
-      <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/the-silent-valley/</guid>
-      <description>US President Donald Trump&amp;rsquo;s intervention in Kashmir is all over, after he agreed that it is a bilateral issue to be resolved by India and Pakistan.</description>
     </item>
     
   </channel>
