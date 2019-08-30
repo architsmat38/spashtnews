@@ -7,67 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Thu, 29 Aug 2019 22:01:47 +0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 14:01:16 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>india</title>
-      <link>https://spashtnews.com/tags/india/</link>
+      <title>Jio</title>
+      <link>https://spashtnews.com/tags/jio/</link>
+      <pubDate>Fri, 30 Aug 2019 14:01:16 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/jio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mukesh Ambani</title>
+      <link>https://spashtnews.com/tags/mukesh-ambani/</link>
+      <pubDate>Fri, 30 Aug 2019 14:01:16 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/mukesh-ambani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear Threat</title>
+      <link>https://spashtnews.com/tags/nuclear-threat/</link>
       <pubDate>Thu, 29 Aug 2019 22:01:47 +0400</pubDate>
       
-      <guid>https://spashtnews.com/tags/india/</guid>
+      <guid>https://spashtnews.com/tags/nuclear-threat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>nuclear</title>
-      <link>https://spashtnews.com/tags/nuclear/</link>
-      <pubDate>Thu, 29 Aug 2019 22:01:47 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/nuclear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pakistan</title>
-      <link>https://spashtnews.com/tags/pakistan/</link>
-      <pubDate>Thu, 29 Aug 2019 22:01:47 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/pakistan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economy</title>
-      <link>https://spashtnews.com/tags/economy/</link>
+      <title>Economic Crisis</title>
+      <link>https://spashtnews.com/tags/economic-crisis/</link>
       <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
       
-      <guid>https://spashtnews.com/tags/economy/</guid>
+      <guid>https://spashtnews.com/tags/economic-crisis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gdp</title>
-      <link>https://spashtnews.com/tags/gdp/</link>
+      <title>India GDP</title>
+      <link>https://spashtnews.com/tags/india-gdp/</link>
       <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
       
-      <guid>https://spashtnews.com/tags/gdp/</guid>
+      <guid>https://spashtnews.com/tags/india-gdp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rbi</title>
-      <link>https://spashtnews.com/tags/rbi/</link>
-      <pubDate>Wed, 28 Aug 2019 21:28:25 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/rbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>article 370</title>
+      <title>Article 370</title>
       <link>https://spashtnews.com/tags/article-370/</link>
       <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
       
@@ -76,16 +67,7 @@
     </item>
     
     <item>
-      <title>imran khan</title>
-      <link>https://spashtnews.com/tags/imran-khan/</link>
-      <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/imran-khan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kashmir</title>
+      <title>Kashmir</title>
       <link>https://spashtnews.com/tags/kashmir/</link>
       <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
       
@@ -94,70 +76,16 @@
     </item>
     
     <item>
-      <title>modi</title>
-      <link>https://spashtnews.com/tags/modi/</link>
-      <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/modi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>trump</title>
-      <link>https://spashtnews.com/tags/trump/</link>
-      <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/trump/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>US</title>
-      <link>https://spashtnews.com/tags/us/</link>
-      <pubDate>Tue, 27 Aug 2019 22:15:44 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>crisis</title>
-      <link>https://spashtnews.com/tags/crisis/</link>
+      <title>Gold Price</title>
+      <link>https://spashtnews.com/tags/gold-price/</link>
       <pubDate>Mon, 26 Aug 2019 22:34:59 +0400</pubDate>
       
-      <guid>https://spashtnews.com/tags/crisis/</guid>
+      <guid>https://spashtnews.com/tags/gold-price/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gold</title>
-      <link>https://spashtnews.com/tags/gold/</link>
-      <pubDate>Mon, 26 Aug 2019 22:34:59 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/gold/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inflation</title>
-      <link>https://spashtnews.com/tags/inflation/</link>
-      <pubDate>Mon, 26 Aug 2019 22:34:59 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/inflation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>badminton</title>
-      <link>https://spashtnews.com/tags/badminton/</link>
-      <pubDate>Mon, 26 Aug 2019 21:49:56 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/badminton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>champion</title>
+      <title>Champion</title>
       <link>https://spashtnews.com/tags/champion/</link>
       <pubDate>Mon, 26 Aug 2019 21:49:56 +0400</pubDate>
       
@@ -166,7 +94,7 @@
     </item>
     
     <item>
-      <title>pv sindhu</title>
+      <title>PV Sindhu</title>
       <link>https://spashtnews.com/tags/pv-sindhu/</link>
       <pubDate>Mon, 26 Aug 2019 21:49:56 +0400</pubDate>
       
@@ -175,47 +103,20 @@
     </item>
     
     <item>
-      <title>sports</title>
-      <link>https://spashtnews.com/tags/sports/</link>
-      <pubDate>Mon, 26 Aug 2019 21:49:56 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/sports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cbi</title>
-      <link>https://spashtnews.com/tags/cbi/</link>
+      <title>Chidambaram Arrest</title>
+      <link>https://spashtnews.com/tags/chidambaram-arrest/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0400</pubDate>
       
-      <guid>https://spashtnews.com/tags/cbi/</guid>
+      <guid>https://spashtnews.com/tags/chidambaram-arrest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>chidambaram</title>
-      <link>https://spashtnews.com/tags/chidambaram/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/chidambaram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inx media</title>
+      <title>INX Media</title>
       <link>https://spashtnews.com/tags/inx-media/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/inx-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>politics</title>
-      <link>https://spashtnews.com/tags/politics/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/politics/</guid>
       <description></description>
     </item>
     
