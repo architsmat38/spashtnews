@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assam on SpashtNews</title>
+    <link>https://spashtnews.com/tags/assam/</link>
+    <description>Recent content in Assam on SpashtNews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019. SpashtNews - All rights reserved</copyright>
+    <lastBuildDate>Sat, 31 Aug 2019 17:41:10 +0400</lastBuildDate>
+    
+	<atom:link href="https://spashtnews.com/tags/assam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fate of People in Assam Post NRC</title>
+      <link>https://spashtnews.com/fate-of-people-in-assam-post-nrc/</link>
+      <pubDate>Sat, 31 Aug 2019 17:41:10 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/fate-of-people-in-assam-post-nrc/</guid>
+      <description>The National Register of Citizens (NRC) is a register containing the names of all genuine citizens of India. It was first prepared in 1951. As of now, the NRC is being updated for the state of Assam.</description>
+    </item>
+    
+  </channel>
+</rss>
