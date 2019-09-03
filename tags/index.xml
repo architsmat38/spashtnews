@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 19:01:46 +0400</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 19:17:46 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chidambaram Arrest</title>
+      <link>https://spashtnews.com/tags/chidambaram-arrest/</link>
+      <pubDate>Tue, 03 Sep 2019 19:17:46 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/chidambaram-arrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INX Media</title>
+      <link>https://spashtnews.com/tags/inx-media/</link>
+      <pubDate>Tue, 03 Sep 2019 19:17:46 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/inx-media/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Economic Crisis</title>
@@ -108,24 +126,6 @@
       <pubDate>Mon, 26 Aug 2019 21:49:56 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/pv-sindhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chidambaram Arrest</title>
-      <link>https://spashtnews.com/tags/chidambaram-arrest/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/chidambaram-arrest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INX Media</title>
-      <link>https://spashtnews.com/tags/inx-media/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/inx-media/</guid>
       <description></description>
     </item>
     
