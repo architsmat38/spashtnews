@@ -21,37 +21,37 @@
     margin-left: 25px;
 }
 .jumbotron.fortags a {
-    background: #1C9963 !important;
+    background: #1C9963;
 }
 .error{
-    text-align: center !important;
+    text-align: center;
 }
 @media(min-width: 769px){
     .md-nopad-right{
-        padding-right: 0px !important;
+        padding-right: 0px;
     }
     .md-nopad-left{
-        padding-left: 0px !important;
+        padding-left: 0px;
     }
 }
 .mbot-20 {
-    margin-bottom: 20px !important;
+    margin-bottom: 20px;
 }
 .text-justify {
-    text-align: justify !important;
+    text-align: justify;
 }
 .font-bold {
-    font-weight: bold !important;
+    font-weight: bold;
 }
 .card-shadow {
     box-shadow: 1px 1px 10px #D3D3D3;
 }
 .facebook-color {
-    color: #3b5998 !important;
+    color: #3b5998;
 }
 .twitter-color {
-    color: #00acee !important;
+    color: #00acee;
 }
 .whatsapp-color {
-    color: #25D366 !important;
+    color: #25D366;
 }

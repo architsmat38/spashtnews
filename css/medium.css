@@ -126,8 +126,8 @@ section.recent-posts {
     background-size: cover;
     height: 100%;
     display: block;
-    background-position: 38% 22% !important;
-    background-origin: border-box !important;
+    background-position: 38% 22%;
+    background-origin: border-box;
     border-top-left-radius: .25rem;
     border-bottom-left-radius: .25rem;
 }
@@ -210,9 +210,9 @@ section.recent-posts {
 
 .author-meta {
     flex: 1 1 auto;
-    white-space: nowrap !important;
-    text-overflow: ellipsis !important;
-    overflow: hidden !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 span.post-name,
@@ -309,7 +309,7 @@ span.post-read-more a:hover {
 }
 
 .footer {
-    border-top: 1px solid rgba(0, 0, 0, .05) !important;
+    border-top: 1px solid rgba(0, 0, 0, .05);
     padding-top: 15px;
     padding-bottom: 12px;
     font-size: 0.8rem;
@@ -396,11 +396,11 @@ blockquote {
     }
 
     .alertbar {
-        position: relative !Important;
+        position: relative;
         margin-bottom: 20px;
         margin-top: 20px;
-        box-shadow: none !Important;
-        padding-right: 14px !Important;
+        box-shadow: none;
+        padding-right: 14px;
     }
 
     #comments {
@@ -408,7 +408,7 @@ blockquote {
     }
 
     .jumbotron.fortags {
-        margin-bottom: 0 !Important;
+        margin-bottom: 0;
     }
 
     .alertbar form {
@@ -421,13 +421,13 @@ blockquote {
     }
 
     .alertbar input[type="submit"] {
-        border-radius: 3px !Important;
+        border-radius: 3px;
     }
 
     .alertbar input[type="email"] {
-        margin-right: 0px !Important;
+        margin-right: 0px;
         display: block;
-        border-right: 1px solid #ddd !Important;
+        border-right: 1px solid #ddd;
         margin-bottom: 10px;
     }
 
@@ -769,7 +769,7 @@ iframe {
         padding: 0;
         height: 300px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.png);
+        background-image: url(../../images/jumbotron.png);
         background-size: cover;
     }
 
@@ -787,7 +787,7 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron.png);
+    background-image: url(../../images/jumbotron.png);
     background-size: cover;
 }
 
