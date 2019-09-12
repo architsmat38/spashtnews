@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 21:33:51 +0400</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 20:14:09 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Magsaysay Award</title>
+      <link>https://spashtnews.com/tags/magsaysay-award/</link>
+      <pubDate>Thu, 12 Sep 2019 20:14:09 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/magsaysay-award/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Article 370</title>
