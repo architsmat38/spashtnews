@@ -107,13 +107,25 @@ jQuery(document).ready(function($){
       if (check) {$('.whatsapp-share').hide();}
     });
 
-    $(function(){
-        $('[data-src]').each(function(){
-          var $this = $(this),
-              src = $(this).data('src');
-          $this.attr('src', src);
+   let lazyImages = [...document.querySelectorAll('.lazy-image')]
+   let inAdvance = 300
+
+    function lazyLoad() {
+        lazyImages.forEach(image => {
+            if (image.getBoundingClientRect().top < window.innerHeight + window.pageYOffset + inAdvance
+                && !image.classList.contains('loaded')) {
+                image.src = image.dataset.src;
+                image.onload = () => image.classList.add('loaded');
+            }
         });
-    });
+        // if all loaded removeEventListener
+    }
+
+    lazyLoad();
+
+    document.addEventListener("scroll", lazyLoad);
+    window.addEventListener("resize", lazyLoad);
+    window.addEventListener("orientationchange", lazyLoad);
     
     //$('.site-content').css('margin-top', $('header').outerHeight() + 'px');
 
