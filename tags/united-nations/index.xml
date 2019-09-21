@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>United Nations on SpashtNews</title>
+    <link>https://spashtnews.com/tags/united-nations/</link>
+    <description>Recent content in United Nations on SpashtNews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019. SpashtNews - All rights reserved</copyright>
+    <lastBuildDate>Sat, 21 Sep 2019 22:01:16 +0400</lastBuildDate>
+    
+	<atom:link href="https://spashtnews.com/tags/united-nations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>International Day of Peace - Let’s make this world a place of peace</title>
+      <link>https://spashtnews.com/international-day-of-peace/</link>
+      <pubDate>Sat, 21 Sep 2019 22:01:16 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/international-day-of-peace/</guid>
+      <description>International Day of Peace is celebrated on 21st September every year. To inaugurate the day, the United Nations peace bell is rung at the United Nations Headquarters in New York.</description>
+    </item>
+    
+  </channel>
+</rss>
