@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Sat, 21 Sep 2019 22:01:16 +0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2019 20:32:14 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Donald Trump</title>
+      <link>https://spashtnews.com/tags/donald-trump/</link>
+      <pubDate>Mon, 23 Sep 2019 20:32:14 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/donald-trump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narendra Modi</title>
+      <link>https://spashtnews.com/tags/narendra-modi/</link>
+      <pubDate>Mon, 23 Sep 2019 20:32:14 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>United Nations</title>
