@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Tue, 24 Sep 2019 20:03:51 +0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 19:37:01 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GDP</title>
+      <link>https://spashtnews.com/tags/gdp/</link>
+      <pubDate>Wed, 25 Sep 2019 19:37:01 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAX</title>
+      <link>https://spashtnews.com/tags/tax/</link>
+      <pubDate>Wed, 25 Sep 2019 19:37:01 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/tax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Climate Change</title>
