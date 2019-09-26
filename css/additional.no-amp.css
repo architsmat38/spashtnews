@@ -55,3 +55,11 @@
 .whatsapp-color {
     color: #25D366 !important;
 }
+.image-credits {
+    margin-top: -20px;
+    padding-bottom: 15px;
+    font-style: italic;
+    opacity: 0.5;
+    font-size: small;
+    text-align: right;
+}
