@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Wed, 25 Sep 2019 19:37:01 +0400</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 20:46:10 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Narendra Modi</title>
+      <link>https://spashtnews.com/tags/narendra-modi/</link>
+      <pubDate>Sat, 28 Sep 2019 20:46:10 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United Nations</title>
+      <link>https://spashtnews.com/tags/united-nations/</link>
+      <pubDate>Sat, 28 Sep 2019 20:46:10 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/united-nations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GDP</title>
@@ -45,24 +63,6 @@
       <pubDate>Mon, 23 Sep 2019 20:32:14 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/donald-trump/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Narendra Modi</title>
-      <link>https://spashtnews.com/tags/narendra-modi/</link>
-      <pubDate>Mon, 23 Sep 2019 20:32:14 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United Nations</title>
-      <link>https://spashtnews.com/tags/united-nations/</link>
-      <pubDate>Sat, 21 Sep 2019 22:01:16 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/united-nations/</guid>
       <description></description>
     </item>
     
