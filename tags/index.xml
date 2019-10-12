@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Thu, 10 Oct 2019 06:14:29 +0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 23:21:59 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Narendra Modi</title>
+      <link>https://spashtnews.com/tags/narendra-modi/</link>
+      <pubDate>Sat, 12 Oct 2019 23:21:59 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Jinping</title>
+      <link>https://spashtnews.com/tags/xi-jinping/</link>
+      <pubDate>Sat, 12 Oct 2019 23:21:59 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/xi-jinping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Article 370</title>
@@ -72,15 +90,6 @@
       <pubDate>Wed, 02 Oct 2019 00:00:56 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/lal-bahadur-shastri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Narendra Modi</title>
-      <link>https://spashtnews.com/tags/narendra-modi/</link>
-      <pubDate>Sun, 29 Sep 2019 22:26:50 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
       <description></description>
     </item>
     
