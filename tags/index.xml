@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. SpashtNews - All rights reserved</copyright>
-    <lastBuildDate>Sun, 13 Oct 2019 22:04:54 +0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 01:35:36 +0400</lastBuildDate>
     
 	<atom:link href="https://spashtnews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BJP</title>
+      <link>https://spashtnews.com/tags/bjp/</link>
+      <pubDate>Fri, 18 Oct 2019 01:35:36 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/bjp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congress</title>
+      <link>https://spashtnews.com/tags/congress/</link>
+      <pubDate>Fri, 18 Oct 2019 01:35:36 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narendra Modi</title>
+      <link>https://spashtnews.com/tags/narendra-modi/</link>
+      <pubDate>Fri, 18 Oct 2019 01:35:36 +0400</pubDate>
+      
+      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cricket</title>
@@ -18,15 +45,6 @@
       <pubDate>Sun, 13 Oct 2019 22:04:54 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/cricket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Narendra Modi</title>
-      <link>https://spashtnews.com/tags/narendra-modi/</link>
-      <pubDate>Sat, 12 Oct 2019 23:21:59 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/narendra-modi/</guid>
       <description></description>
     </item>
     
@@ -45,24 +63,6 @@
       <pubDate>Thu, 10 Oct 2019 06:14:29 +0400</pubDate>
       
       <guid>https://spashtnews.com/tags/article-370/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BJP</title>
-      <link>https://spashtnews.com/tags/bjp/</link>
-      <pubDate>Thu, 10 Oct 2019 06:14:29 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/bjp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Congress</title>
-      <link>https://spashtnews.com/tags/congress/</link>
-      <pubDate>Thu, 10 Oct 2019 06:14:29 +0400</pubDate>
-      
-      <guid>https://spashtnews.com/tags/congress/</guid>
       <description></description>
     </item>
     
